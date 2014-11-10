@@ -1,0 +1,30 @@
+Uppgifter – I/O from Users
+
+Uppgift 1:
+Skriv ett program som läser in Namn, Personnummer och Adress. Sedan skall programmet skriva ut:
+Välkommen <Namn>, då du fyller den <Del av personnummer som visar födelsedagen> kommer vi komma till dig, <Address> och fira dig. Detta är ett automatiskt meddelande.
+
+Uppgift 2:
+Skriv ett program där användaren skriver in en ord, trycker enter och sedan får skriva in ett ord till. Det ordet läggs på det förra ordet. Detta skall användaren kunna göra för 5 inmatningar.
+Lite såhär:
+Inmatning 1?
+<Användaren matar in saker>
+<Det användaren matat in>
+Inmatning 2?
+<användaren matar in igen>
+<Det från första och andra inmatningen>
+Inmatning 3?
+OSV.....
+
+-----8<---------
+Jobbigare alternativ för båda uppgifterna:
+* Använd Jpanel.
+-----8<---------
+
+Skapa ett projekt/package som heter inlamningsuppgift1.
+
+Uppgifterna ska sparas i en klass var och de ska heta upp1, respektive uppg2.
+
+För att kompilera och köra enbart en klassfil, så ha den filen markerad och aktiv, dvs i det stora fönstret och tryck sedan på SHIFT-F5 för att köra rätt fil.
+ 
+Glöm inte att lämna in i tid - Lycka till!
